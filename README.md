@@ -11,6 +11,12 @@ This project transforms a flat healthcare CSV dataset into a fully normalized sc
 
 ---
 
+## 🔧 Built With
+- Python 3.12+
+- Apache Spark (PySpark)
+
+---
+
 ## ✨ Key Features
 
 - Parses a flat legacy CSV containing 47+ columns
@@ -80,12 +86,6 @@ project-root/
 # Step into project directory and activate env
 python3 src/main.py
 ```
-
----
-
-## 🔧 Built With
-- Python 3.12+
-- Apache Spark (PySpark)
 
 ---
 ## 📊 Tableau Dashboard
