@@ -1,0 +1,522 @@
+location_id,clinic_name,room_number
+1,Cortez-Parker,107
+2,Cortez-Parker,113
+3,Cortez-Parker,131
+4,Cortez-Parker,132
+5,Cortez-Parker,133
+6,Cortez-Parker,134
+7,Cortez-Parker,138
+8,Cortez-Parker,145
+9,Cortez-Parker,146
+10,Cortez-Parker,148
+11,Cortez-Parker,157
+12,Cortez-Parker,159
+13,Cortez-Parker,184
+14,Cortez-Parker,186
+15,Cortez-Parker,189
+16,Cortez-Parker,208
+17,Cortez-Parker,209
+18,Cortez-Parker,216
+19,Cortez-Parker,224
+20,Cortez-Parker,226
+21,Cortez-Parker,227
+22,Cortez-Parker,233
+23,Cortez-Parker,251
+24,Cortez-Parker,252
+25,Cortez-Parker,267
+26,Cortez-Parker,268
+27,Cortez-Parker,274
+28,Cortez-Parker,286
+29,Cortez-Parker,288
+30,Cortez-Parker,303
+31,Cortez-Parker,311
+32,Cortez-Parker,313
+33,Cortez-Parker,316
+34,Cortez-Parker,320
+35,Cortez-Parker,324
+36,Cortez-Parker,331
+37,Cortez-Parker,334
+38,Cortez-Parker,341
+39,Cortez-Parker,354
+40,Cortez-Parker,357
+41,Cortez-Parker,359
+42,Cortez-Parker,361
+43,Cortez-Parker,367
+44,Cortez-Parker,374
+45,Cortez-Parker,375
+46,Cortez-Parker,384
+47,Cortez-Parker,390
+48,Cortez-Parker,394
+49,Cortez-Parker,396
+50,Cortez-Parker,404
+51,Cortez-Parker,414
+52,Cortez-Parker,415
+53,Cortez-Parker,417
+54,Cortez-Parker,422
+55,Cortez-Parker,425
+56,Cortez-Parker,442
+57,Cortez-Parker,446
+58,Cortez-Parker,453
+59,Cortez-Parker,459
+60,Cortez-Parker,464
+61,Cortez-Parker,471
+62,Cortez-Parker,474
+63,Cortez-Parker,483
+64,Cortez-Parker,485
+65,Cortez-Parker,495
+66,Cortez-Parker,498
+67,Cortez-Parker,517
+68,Cortez-Parker,518
+69,Cortez-Parker,519
+70,Cortez-Parker,523
+71,Cortez-Parker,527
+72,Cortez-Parker,533
+73,Cortez-Parker,536
+74,Cortez-Parker,556
+75,Cortez-Parker,558
+76,Cortez-Parker,573
+77,Cortez-Parker,574
+78,Cortez-Parker,579
+79,Cortez-Parker,583
+80,Cortez-Parker,587
+81,Cortez-Parker,588
+82,Cortez-Parker,595
+83,Cortez-Parker,603
+84,Cortez-Parker,605
+85,Cortez-Parker,623
+86,Cortez-Parker,644
+87,Cortez-Parker,647
+88,Cortez-Parker,649
+89,Cortez-Parker,657
+90,Cortez-Parker,665
+91,Cortez-Parker,666
+92,Cortez-Parker,682
+93,Cortez-Parker,698
+94,Cortez-Parker,707
+95,Cortez-Parker,712
+96,Cortez-Parker,714
+97,Cortez-Parker,729
+98,Cortez-Parker,733
+99,Cortez-Parker,740
+100,Cortez-Parker,745
+101,Cortez-Parker,752
+102,Cortez-Parker,759
+103,Cortez-Parker,760
+104,Cortez-Parker,781
+105,Cortez-Parker,786
+106,Cortez-Parker,789
+107,Cortez-Parker,798
+108,Cortez-Parker,811
+109,Cortez-Parker,820
+110,Cortez-Parker,821
+111,Cortez-Parker,836
+112,Cortez-Parker,840
+113,Cortez-Parker,844
+114,Cortez-Parker,849
+115,Cortez-Parker,855
+116,Cortez-Parker,862
+117,Cortez-Parker,883
+118,Cortez-Parker,885
+119,Cortez-Parker,886
+120,Cortez-Parker,888
+121,Cortez-Parker,891
+122,Cortez-Parker,896
+123,Cortez-Parker,903
+124,Cortez-Parker,904
+125,Cortez-Parker,905
+126,Cortez-Parker,906
+127,Cortez-Parker,909
+128,Cortez-Parker,916
+129,Cortez-Parker,922
+130,Cortez-Parker,929
+131,Cortez-Parker,933
+132,Cortez-Parker,936
+133,Cortez-Parker,945
+134,Cortez-Parker,947
+135,Cortez-Parker,950
+136,Cortez-Parker,956
+137,Cortez-Parker,965
+138,Cortez-Parker,969
+139,Cortez-Parker,972
+140,Cortez-Parker,978
+141,Cortez-Parker,979
+142,Cortez-Parker,981
+143,Cortez-Parker,987
+144,Cortez-Parker,991
+145,Cortez-Parker,993
+146,Cortez-Parker,996
+147,"Flores, Long and Harrison",103
+148,"Flores, Long and Harrison",117
+149,"Flores, Long and Harrison",119
+150,"Flores, Long and Harrison",139
+151,"Flores, Long and Harrison",142
+152,"Flores, Long and Harrison",144
+153,"Flores, Long and Harrison",161
+154,"Flores, Long and Harrison",167
+155,"Flores, Long and Harrison",185
+156,"Flores, Long and Harrison",199
+157,"Flores, Long and Harrison",211
+158,"Flores, Long and Harrison",213
+159,"Flores, Long and Harrison",221
+160,"Flores, Long and Harrison",222
+161,"Flores, Long and Harrison",227
+162,"Flores, Long and Harrison",239
+163,"Flores, Long and Harrison",246
+164,"Flores, Long and Harrison",253
+165,"Flores, Long and Harrison",254
+166,"Flores, Long and Harrison",267
+167,"Flores, Long and Harrison",275
+168,"Flores, Long and Harrison",279
+169,"Flores, Long and Harrison",280
+170,"Flores, Long and Harrison",283
+171,"Flores, Long and Harrison",302
+172,"Flores, Long and Harrison",314
+173,"Flores, Long and Harrison",315
+174,"Flores, Long and Harrison",318
+175,"Flores, Long and Harrison",326
+176,"Flores, Long and Harrison",327
+177,"Flores, Long and Harrison",345
+178,"Flores, Long and Harrison",352
+179,"Flores, Long and Harrison",361
+180,"Flores, Long and Harrison",372
+181,"Flores, Long and Harrison",377
+182,"Flores, Long and Harrison",379
+183,"Flores, Long and Harrison",387
+184,"Flores, Long and Harrison",389
+185,"Flores, Long and Harrison",394
+186,"Flores, Long and Harrison",398
+187,"Flores, Long and Harrison",411
+188,"Flores, Long and Harrison",428
+189,"Flores, Long and Harrison",433
+190,"Flores, Long and Harrison",434
+191,"Flores, Long and Harrison",436
+192,"Flores, Long and Harrison",438
+193,"Flores, Long and Harrison",441
+194,"Flores, Long and Harrison",442
+195,"Flores, Long and Harrison",443
+196,"Flores, Long and Harrison",445
+197,"Flores, Long and Harrison",448
+198,"Flores, Long and Harrison",459
+199,"Flores, Long and Harrison",464
+200,"Flores, Long and Harrison",466
+201,"Flores, Long and Harrison",469
+202,"Flores, Long and Harrison",470
+203,"Flores, Long and Harrison",480
+204,"Flores, Long and Harrison",487
+205,"Flores, Long and Harrison",489
+206,"Flores, Long and Harrison",492
+207,"Flores, Long and Harrison",493
+208,"Flores, Long and Harrison",503
+209,"Flores, Long and Harrison",510
+210,"Flores, Long and Harrison",511
+211,"Flores, Long and Harrison",517
+212,"Flores, Long and Harrison",533
+213,"Flores, Long and Harrison",547
+214,"Flores, Long and Harrison",567
+215,"Flores, Long and Harrison",574
+216,"Flores, Long and Harrison",586
+217,"Flores, Long and Harrison",587
+218,"Flores, Long and Harrison",589
+219,"Flores, Long and Harrison",597
+220,"Flores, Long and Harrison",598
+221,"Flores, Long and Harrison",599
+222,"Flores, Long and Harrison",608
+223,"Flores, Long and Harrison",609
+224,"Flores, Long and Harrison",610
+225,"Flores, Long and Harrison",618
+226,"Flores, Long and Harrison",619
+227,"Flores, Long and Harrison",626
+228,"Flores, Long and Harrison",629
+229,"Flores, Long and Harrison",639
+230,"Flores, Long and Harrison",658
+231,"Flores, Long and Harrison",659
+232,"Flores, Long and Harrison",685
+233,"Flores, Long and Harrison",707
+234,"Flores, Long and Harrison",716
+235,"Flores, Long and Harrison",726
+236,"Flores, Long and Harrison",728
+237,"Flores, Long and Harrison",742
+238,"Flores, Long and Harrison",749
+239,"Flores, Long and Harrison",760
+240,"Flores, Long and Harrison",761
+241,"Flores, Long and Harrison",771
+242,"Flores, Long and Harrison",772
+243,"Flores, Long and Harrison",773
+244,"Flores, Long and Harrison",775
+245,"Flores, Long and Harrison",776
+246,"Flores, Long and Harrison",784
+247,"Flores, Long and Harrison",790
+248,"Flores, Long and Harrison",799
+249,"Flores, Long and Harrison",800
+250,"Flores, Long and Harrison",801
+251,"Flores, Long and Harrison",806
+252,"Flores, Long and Harrison",809
+253,"Flores, Long and Harrison",811
+254,"Flores, Long and Harrison",814
+255,"Flores, Long and Harrison",817
+256,"Flores, Long and Harrison",820
+257,"Flores, Long and Harrison",836
+258,"Flores, Long and Harrison",841
+259,"Flores, Long and Harrison",845
+260,"Flores, Long and Harrison",847
+261,"Flores, Long and Harrison",855
+262,"Flores, Long and Harrison",858
+263,"Flores, Long and Harrison",865
+264,"Flores, Long and Harrison",870
+265,"Flores, Long and Harrison",873
+266,"Flores, Long and Harrison",878
+267,"Flores, Long and Harrison",899
+268,"Flores, Long and Harrison",901
+269,"Flores, Long and Harrison",914
+270,"Flores, Long and Harrison",919
+271,"Flores, Long and Harrison",921
+272,"Flores, Long and Harrison",926
+273,"Flores, Long and Harrison",942
+274,"Flores, Long and Harrison",943
+275,"Flores, Long and Harrison",946
+276,"Flores, Long and Harrison",953
+277,"Flores, Long and Harrison",963
+278,"Flores, Long and Harrison",966
+279,"Flores, Long and Harrison",975
+280,"Flores, Long and Harrison",989
+281,"Flores, Long and Harrison",991
+282,"Flores, Long and Harrison",996
+283,Kent-Anderson,100
+284,Kent-Anderson,104
+285,Kent-Anderson,107
+286,Kent-Anderson,116
+287,Kent-Anderson,133
+288,Kent-Anderson,134
+289,Kent-Anderson,142
+290,Kent-Anderson,148
+291,Kent-Anderson,175
+292,Kent-Anderson,192
+293,Kent-Anderson,193
+294,Kent-Anderson,194
+295,Kent-Anderson,195
+296,Kent-Anderson,196
+297,Kent-Anderson,202
+298,Kent-Anderson,214
+299,Kent-Anderson,216
+300,Kent-Anderson,217
+301,Kent-Anderson,223
+302,Kent-Anderson,224
+303,Kent-Anderson,249
+304,Kent-Anderson,253
+305,Kent-Anderson,254
+306,Kent-Anderson,255
+307,Kent-Anderson,257
+308,Kent-Anderson,259
+309,Kent-Anderson,266
+310,Kent-Anderson,267
+311,Kent-Anderson,284
+312,Kent-Anderson,285
+313,Kent-Anderson,298
+314,Kent-Anderson,302
+315,Kent-Anderson,305
+316,Kent-Anderson,313
+317,Kent-Anderson,316
+318,Kent-Anderson,317
+319,Kent-Anderson,332
+320,Kent-Anderson,335
+321,Kent-Anderson,344
+322,Kent-Anderson,347
+323,Kent-Anderson,348
+324,Kent-Anderson,376
+325,Kent-Anderson,377
+326,Kent-Anderson,379
+327,Kent-Anderson,384
+328,Kent-Anderson,387
+329,Kent-Anderson,398
+330,Kent-Anderson,399
+331,Kent-Anderson,402
+332,Kent-Anderson,407
+333,Kent-Anderson,428
+334,Kent-Anderson,430
+335,Kent-Anderson,431
+336,Kent-Anderson,434
+337,Kent-Anderson,435
+338,Kent-Anderson,441
+339,Kent-Anderson,444
+340,Kent-Anderson,449
+341,Kent-Anderson,479
+342,Kent-Anderson,482
+343,Kent-Anderson,485
+344,Kent-Anderson,486
+345,Kent-Anderson,497
+346,Kent-Anderson,502
+347,Kent-Anderson,517
+348,Kent-Anderson,518
+349,Kent-Anderson,522
+350,Kent-Anderson,525
+351,Kent-Anderson,528
+352,Kent-Anderson,565
+353,Kent-Anderson,568
+354,Kent-Anderson,576
+355,Kent-Anderson,581
+356,Kent-Anderson,584
+357,Kent-Anderson,589
+358,Kent-Anderson,598
+359,Kent-Anderson,606
+360,Kent-Anderson,609
+361,Kent-Anderson,612
+362,Kent-Anderson,613
+363,Kent-Anderson,615
+364,Kent-Anderson,618
+365,Kent-Anderson,624
+366,Kent-Anderson,628
+367,Kent-Anderson,634
+368,Kent-Anderson,637
+369,Kent-Anderson,661
+370,Kent-Anderson,666
+371,Kent-Anderson,693
+372,Kent-Anderson,702
+373,Kent-Anderson,704
+374,Kent-Anderson,706
+375,Kent-Anderson,724
+376,Kent-Anderson,729
+377,Kent-Anderson,740
+378,Kent-Anderson,741
+379,Kent-Anderson,742
+380,Kent-Anderson,755
+381,Kent-Anderson,770
+382,Kent-Anderson,772
+383,Kent-Anderson,786
+384,Kent-Anderson,789
+385,Kent-Anderson,799
+386,Kent-Anderson,813
+387,Kent-Anderson,844
+388,Kent-Anderson,848
+389,Kent-Anderson,851
+390,Kent-Anderson,858
+391,Kent-Anderson,865
+392,Kent-Anderson,869
+393,Kent-Anderson,877
+394,Kent-Anderson,884
+395,Kent-Anderson,888
+396,Kent-Anderson,891
+397,Kent-Anderson,906
+398,Kent-Anderson,917
+399,Kent-Anderson,921
+400,Kent-Anderson,942
+401,Kent-Anderson,948
+402,Kent-Anderson,950
+403,Kent-Anderson,951
+404,Kent-Anderson,954
+405,Kent-Anderson,955
+406,Kent-Anderson,958
+407,Kent-Anderson,966
+408,Kent-Anderson,974
+409,Kent-Anderson,982
+410,Kent-Anderson,996
+411,Snow and Sons,108
+412,Snow and Sons,110
+413,Snow and Sons,118
+414,Snow and Sons,124
+415,Snow and Sons,126
+416,Snow and Sons,136
+417,Snow and Sons,151
+418,Snow and Sons,160
+419,Snow and Sons,162
+420,Snow and Sons,163
+421,Snow and Sons,164
+422,Snow and Sons,172
+423,Snow and Sons,175
+424,Snow and Sons,177
+425,Snow and Sons,183
+426,Snow and Sons,185
+427,Snow and Sons,196
+428,Snow and Sons,197
+429,Snow and Sons,206
+430,Snow and Sons,211
+431,Snow and Sons,245
+432,Snow and Sons,246
+433,Snow and Sons,273
+434,Snow and Sons,277
+435,Snow and Sons,285
+436,Snow and Sons,289
+437,Snow and Sons,296
+438,Snow and Sons,308
+439,Snow and Sons,313
+440,Snow and Sons,315
+441,Snow and Sons,325
+442,Snow and Sons,333
+443,Snow and Sons,344
+444,Snow and Sons,348
+445,Snow and Sons,350
+446,Snow and Sons,364
+447,Snow and Sons,366
+448,Snow and Sons,367
+449,Snow and Sons,381
+450,Snow and Sons,387
+451,Snow and Sons,395
+452,Snow and Sons,417
+453,Snow and Sons,418
+454,Snow and Sons,422
+455,Snow and Sons,424
+456,Snow and Sons,426
+457,Snow and Sons,461
+458,Snow and Sons,463
+459,Snow and Sons,495
+460,Snow and Sons,511
+461,Snow and Sons,512
+462,Snow and Sons,544
+463,Snow and Sons,548
+464,Snow and Sons,562
+465,Snow and Sons,565
+466,Snow and Sons,585
+467,Snow and Sons,590
+468,Snow and Sons,595
+469,Snow and Sons,598
+470,Snow and Sons,604
+471,Snow and Sons,608
+472,Snow and Sons,623
+473,Snow and Sons,625
+474,Snow and Sons,627
+475,Snow and Sons,649
+476,Snow and Sons,652
+477,Snow and Sons,654
+478,Snow and Sons,656
+479,Snow and Sons,661
+480,Snow and Sons,671
+481,Snow and Sons,687
+482,Snow and Sons,700
+483,Snow and Sons,706
+484,Snow and Sons,717
+485,Snow and Sons,718
+486,Snow and Sons,723
+487,Snow and Sons,747
+488,Snow and Sons,770
+489,Snow and Sons,782
+490,Snow and Sons,789
+491,Snow and Sons,790
+492,Snow and Sons,793
+493,Snow and Sons,813
+494,Snow and Sons,816
+495,Snow and Sons,826
+496,Snow and Sons,839
+497,Snow and Sons,849
+498,Snow and Sons,851
+499,Snow and Sons,853
+500,Snow and Sons,856
+501,Snow and Sons,864
+502,Snow and Sons,869
+503,Snow and Sons,884
+504,Snow and Sons,896
+505,Snow and Sons,898
+506,Snow and Sons,899
+507,Snow and Sons,900
+508,Snow and Sons,901
+509,Snow and Sons,906
+510,Snow and Sons,908
+511,Snow and Sons,912
+512,Snow and Sons,919
+513,Snow and Sons,920
+514,Snow and Sons,923
+515,Snow and Sons,937
+516,Snow and Sons,942
+517,Snow and Sons,968
+518,Snow and Sons,970
+519,Snow and Sons,975
+520,Snow and Sons,982
+521,Snow and Sons,998

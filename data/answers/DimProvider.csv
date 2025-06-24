@@ -1,0 +1,184 @@
+provider_id,doctor_name,doctor_title,doctor_department
+1,Calvin Bailey,DO,Careers adviser
+2,Kimberly Watson,DO,Careers adviser
+3,Evelyn Brennan,DO,Careers adviser
+4,Janice Torres,DO,Careers adviser
+5,Jeffrey Walls,DO,Careers adviser
+6,Briana Martin,DO,Careers adviser
+7,William Salazar,DO,Careers adviser
+8,Jeremy Davis,DO,Careers adviser
+9,William Salazar,DO,"Designer, industrial/product"
+10,Calvin Bailey,DO,"Designer, industrial/product"
+11,Jeremy Davis,DO,"Designer, industrial/product"
+12,Jeffrey Walls,DO,"Designer, industrial/product"
+13,Briana Martin,DO,"Designer, industrial/product"
+14,Evelyn Brennan,DO,"Designer, industrial/product"
+15,Janice Torres,DO,"Designer, industrial/product"
+16,Kimberly Watson,DO,"Designer, industrial/product"
+17,Kimberly Watson,DO,"Production designer, theatre/television/film"
+18,Evelyn Brennan,DO,"Production designer, theatre/television/film"
+19,Janice Torres,DO,"Production designer, theatre/television/film"
+20,Jeremy Davis,DO,"Production designer, theatre/television/film"
+21,William Salazar,DO,"Production designer, theatre/television/film"
+22,Calvin Bailey,DO,"Production designer, theatre/television/film"
+23,Briana Martin,DO,"Production designer, theatre/television/film"
+24,Kimberly Watson,DO,"Psychologist, counselling"
+25,Jeremy Davis,DO,"Psychologist, counselling"
+26,Evelyn Brennan,DO,"Psychologist, counselling"
+27,Jeffrey Walls,DO,"Psychologist, counselling"
+28,Calvin Bailey,DO,"Psychologist, counselling"
+29,William Salazar,DO,"Psychologist, counselling"
+30,Janice Torres,DO,"Psychologist, counselling"
+31,Briana Martin,DO,"Psychologist, counselling"
+32,Jeremy Davis,DO,"Surveyor, insurance"
+33,William Salazar,DO,"Surveyor, insurance"
+34,Kimberly Watson,DO,"Surveyor, insurance"
+35,Janice Torres,DO,"Surveyor, insurance"
+36,Jeffrey Walls,DO,"Surveyor, insurance"
+37,Briana Martin,DO,"Surveyor, insurance"
+38,Evelyn Brennan,DO,"Surveyor, insurance"
+39,Calvin Bailey,DO,"Surveyor, insurance"
+40,Briana Martin,DO,Systems analyst
+41,Kimberly Watson,DO,Systems analyst
+42,Calvin Bailey,DO,Systems analyst
+43,Jeffrey Walls,DO,Systems analyst
+44,Evelyn Brennan,DO,Systems analyst
+45,William Salazar,DO,Systems analyst
+46,Jeremy Davis,DO,Systems analyst
+47,Janice Torres,DO,Systems analyst
+48,Jeremy Davis,MD,Careers adviser
+49,Janice Torres,MD,Careers adviser
+50,Evelyn Brennan,MD,Careers adviser
+51,Jeffrey Walls,MD,Careers adviser
+52,Calvin Bailey,MD,Careers adviser
+53,William Salazar,MD,Careers adviser
+54,Kimberly Watson,MD,Careers adviser
+55,Briana Martin,MD,Careers adviser
+56,Briana Martin,MD,"Designer, industrial/product"
+57,Janice Torres,MD,"Designer, industrial/product"
+58,Calvin Bailey,MD,"Designer, industrial/product"
+59,Jeremy Davis,MD,"Designer, industrial/product"
+60,Jeffrey Walls,MD,"Designer, industrial/product"
+61,Kimberly Watson,MD,"Designer, industrial/product"
+62,William Salazar,MD,"Designer, industrial/product"
+63,Calvin Bailey,MD,"Production designer, theatre/television/film"
+64,Jeffrey Walls,MD,"Production designer, theatre/television/film"
+65,William Salazar,MD,"Production designer, theatre/television/film"
+66,Evelyn Brennan,MD,"Production designer, theatre/television/film"
+67,Kimberly Watson,MD,"Production designer, theatre/television/film"
+68,Jeremy Davis,MD,"Production designer, theatre/television/film"
+69,Evelyn Brennan,MD,"Psychologist, counselling"
+70,William Salazar,MD,"Psychologist, counselling"
+71,Jeffrey Walls,MD,"Psychologist, counselling"
+72,Briana Martin,MD,"Psychologist, counselling"
+73,Kimberly Watson,MD,"Psychologist, counselling"
+74,Calvin Bailey,MD,"Psychologist, counselling"
+75,Janice Torres,MD,"Psychologist, counselling"
+76,Jeremy Davis,MD,"Psychologist, counselling"
+77,Evelyn Brennan,MD,"Surveyor, insurance"
+78,Calvin Bailey,MD,"Surveyor, insurance"
+79,Briana Martin,MD,"Surveyor, insurance"
+80,Janice Torres,MD,"Surveyor, insurance"
+81,Jeremy Davis,MD,"Surveyor, insurance"
+82,Kimberly Watson,MD,"Surveyor, insurance"
+83,Jeffrey Walls,MD,"Surveyor, insurance"
+84,William Salazar,MD,"Surveyor, insurance"
+85,Briana Martin,MD,Systems analyst
+86,Jeremy Davis,MD,Systems analyst
+87,Evelyn Brennan,MD,Systems analyst
+88,Calvin Bailey,MD,Systems analyst
+89,Janice Torres,MD,Systems analyst
+90,Kimberly Watson,MD,Systems analyst
+91,Jeffrey Walls,MD,Systems analyst
+92,William Salazar,MD,Systems analyst
+93,Jeffrey Walls,NP,Careers adviser
+94,Janice Torres,NP,Careers adviser
+95,Kimberly Watson,NP,Careers adviser
+96,Briana Martin,NP,Careers adviser
+97,William Salazar,NP,Careers adviser
+98,Evelyn Brennan,NP,Careers adviser
+99,Jeremy Davis,NP,Careers adviser
+100,Jeffrey Walls,NP,"Designer, industrial/product"
+101,Evelyn Brennan,NP,"Designer, industrial/product"
+102,Jeremy Davis,NP,"Designer, industrial/product"
+103,Calvin Bailey,NP,"Designer, industrial/product"
+104,Janice Torres,NP,"Designer, industrial/product"
+105,Kimberly Watson,NP,"Designer, industrial/product"
+106,William Salazar,NP,"Designer, industrial/product"
+107,Briana Martin,NP,"Designer, industrial/product"
+108,Calvin Bailey,NP,"Production designer, theatre/television/film"
+109,Evelyn Brennan,NP,"Production designer, theatre/television/film"
+110,Jeffrey Walls,NP,"Production designer, theatre/television/film"
+111,Jeremy Davis,NP,"Production designer, theatre/television/film"
+112,Briana Martin,NP,"Production designer, theatre/television/film"
+113,Kimberly Watson,NP,"Production designer, theatre/television/film"
+114,William Salazar,NP,"Production designer, theatre/television/film"
+115,Janice Torres,NP,"Production designer, theatre/television/film"
+116,Briana Martin,NP,"Psychologist, counselling"
+117,Calvin Bailey,NP,"Psychologist, counselling"
+118,Evelyn Brennan,NP,"Psychologist, counselling"
+119,Kimberly Watson,NP,"Psychologist, counselling"
+120,Janice Torres,NP,"Psychologist, counselling"
+121,William Salazar,NP,"Psychologist, counselling"
+122,Jeremy Davis,NP,"Psychologist, counselling"
+123,Kimberly Watson,NP,"Surveyor, insurance"
+124,Briana Martin,NP,"Surveyor, insurance"
+125,Calvin Bailey,NP,"Surveyor, insurance"
+126,William Salazar,NP,"Surveyor, insurance"
+127,Jeffrey Walls,NP,"Surveyor, insurance"
+128,Evelyn Brennan,NP,"Surveyor, insurance"
+129,Janice Torres,NP,"Surveyor, insurance"
+130,Jeremy Davis,NP,"Surveyor, insurance"
+131,Kimberly Watson,NP,Systems analyst
+132,Evelyn Brennan,NP,Systems analyst
+133,Janice Torres,NP,Systems analyst
+134,Calvin Bailey,NP,Systems analyst
+135,William Salazar,NP,Systems analyst
+136,Briana Martin,NP,Systems analyst
+137,Jeffrey Walls,NP,Systems analyst
+138,Jeremy Davis,NP,Systems analyst
+139,Janice Torres,PA,Careers adviser
+140,Briana Martin,PA,Careers adviser
+141,Jeffrey Walls,PA,Careers adviser
+142,Calvin Bailey,PA,Careers adviser
+143,Kimberly Watson,PA,Careers adviser
+144,William Salazar,PA,Careers adviser
+145,Evelyn Brennan,PA,Careers adviser
+146,Jeremy Davis,PA,Careers adviser
+147,Janice Torres,PA,"Designer, industrial/product"
+148,Briana Martin,PA,"Designer, industrial/product"
+149,Evelyn Brennan,PA,"Designer, industrial/product"
+150,Jeremy Davis,PA,"Designer, industrial/product"
+151,William Salazar,PA,"Designer, industrial/product"
+152,Kimberly Watson,PA,"Designer, industrial/product"
+153,Jeffrey Walls,PA,"Designer, industrial/product"
+154,Jeremy Davis,PA,"Production designer, theatre/television/film"
+155,Evelyn Brennan,PA,"Production designer, theatre/television/film"
+156,Kimberly Watson,PA,"Production designer, theatre/television/film"
+157,Briana Martin,PA,"Production designer, theatre/television/film"
+158,Calvin Bailey,PA,"Production designer, theatre/television/film"
+159,Janice Torres,PA,"Production designer, theatre/television/film"
+160,Jeffrey Walls,PA,"Production designer, theatre/television/film"
+161,Janice Torres,PA,"Psychologist, counselling"
+162,Calvin Bailey,PA,"Psychologist, counselling"
+163,Briana Martin,PA,"Psychologist, counselling"
+164,Evelyn Brennan,PA,"Psychologist, counselling"
+165,Kimberly Watson,PA,"Psychologist, counselling"
+166,Jeremy Davis,PA,"Psychologist, counselling"
+167,Jeffrey Walls,PA,"Psychologist, counselling"
+168,Evelyn Brennan,PA,"Surveyor, insurance"
+169,Jeffrey Walls,PA,"Surveyor, insurance"
+170,Briana Martin,PA,"Surveyor, insurance"
+171,Jeremy Davis,PA,"Surveyor, insurance"
+172,Janice Torres,PA,"Surveyor, insurance"
+173,Kimberly Watson,PA,"Surveyor, insurance"
+174,Calvin Bailey,PA,"Surveyor, insurance"
+175,William Salazar,PA,"Surveyor, insurance"
+176,Evelyn Brennan,PA,Systems analyst
+177,Calvin Bailey,PA,Systems analyst
+178,William Salazar,PA,Systems analyst
+179,Kimberly Watson,PA,Systems analyst
+180,Jeffrey Walls,PA,Systems analyst
+181,Jeremy Davis,PA,Systems analyst
+182,Briana Martin,PA,Systems analyst
+183,Janice Torres,PA,Systems analyst

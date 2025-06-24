@@ -1,0 +1,566 @@
+insurance_id,patient_id,insurance_payer_name,insurance_policy_number,insurance_group_number,insurance_plan_type
+0033979f,a858cb0d,"Vazquez, Thomas and Wallace",4306a4c9-e27,51ecfc1d,Medicare
+00f7bd06,ece48eec,"Parker, Douglas and Collins",a704867d-f1f,60062ec7,Medicare
+0100276c,7ef2ff87,"Gallegos, Green and Douglas",d03e9925-e56,35ace68f,Medicaid
+036ae139,1f8f53a8,"Parker, Douglas and Collins",f85f61f1-9cd,d63f9540,Medicare
+03adc3bc,577d5201,"Parker, Douglas and Collins",61de66e4-03d,0bf1a273,Medicaid
+048da5d2,26a603e0,"Parker, Douglas and Collins",93bd2aa2-6ab,064b72eb,Medicaid
+0493f58e,9a33830e,Potts Group,73b6ff47-4d3,c85b211e,PPO
+05777685,4a3bc7a0,"Vazquez, Thomas and Wallace",eb640380-c47,966ca352,PPO
+0597b3c2,a6bab08c,King Group,b1971f48-2d4,eb0100e7,Medicare
+06283a23,1da2ea23,King Group,3c65fb50-27b,6a8445a5,HMO
+07f8868b,bb39bbf5,"Parker, Douglas and Collins",1310f52d-39f,947478ff,PPO
+080557f4,9c3a287a,Potts Group,ab7bfd95-708,d58bf6b9,PPO
+080e558b,44d76216,"Vazquez, Thomas and Wallace",ea0389d6-4c2,061dbe14,PPO
+08a93f0f,04cfad57,Potts Group,fdcd6a4e-278,82bb5fc6,Medicaid
+08abb035,f6fb60d2,"Gallegos, Green and Douglas",bf81f460-ca1,410f9bba,Medicaid
+08e25f18,7f8ab981,"Gallegos, Green and Douglas",27718a67-dfd,40e48b27,Medicaid
+097e9ed5,a256f377,King Group,1e50e5c2-a68,cd6f4dc5,Medicare
+09a26b64,31e12861,"Gallegos, Green and Douglas",5d7ea523-131,a7ae1fbd,HMO
+09b24e62,d214ac5e,"Parker, Douglas and Collins",15a4087a-6a1,12a1018e,HMO
+09ea234a,f68dad5f,"Vazquez, Thomas and Wallace",fb66a2ff-3d7,b33b165a,Medicaid
+0bbd0891,f5d8b446,"Vazquez, Thomas and Wallace",378db6c8-36d,5ae036f6,PPO
+0ca86d3b,c7f2902c,Potts Group,54fb2b06-009,b0f9cb83,Medicare
+0ccada3f,01f9e2a1,"Parker, Douglas and Collins",b7ccc6f7-873,8119f0a7,PPO
+0d1594ab,62d82aad,"Parker, Douglas and Collins",ad486772-eef,cb0413ad,Medicare
+0d659ba9,14d6edaf,"Vazquez, Thomas and Wallace",a6a757bc-5d9,3c722618,PPO
+0dbb0003,3ae6f9f7,King Group,6fc0a873-d81,d5323ee9,PPO
+0ef73424,76ddbacc,"Vazquez, Thomas and Wallace",a1804a56-ad7,aa63847d,PPO
+0f28cf0a,08e0b6c5,"Parker, Douglas and Collins",45044bdc-7b9,f10318d5,HMO
+0f55de6f,e295595e,King Group,18917fa8-ce5,ef0b3644,Medicaid
+0f92e533,ed37bbcf,"Parker, Douglas and Collins",e7c50e3b-37a,1a0970ee,HMO
+0fab323b,6410b6b4,"Gallegos, Green and Douglas",db7802ce-7b0,e8aeacb3,PPO
+0fce00b4,8eb4e9dc,"Vazquez, Thomas and Wallace",cd93ed89-ab0,dfb6b096,PPO
+0fe585cf,5e1b874a,King Group,713c53f3-6b8,9bf21f50,Medicaid
+1008ba51,c95b2869,Potts Group,a9c54ac2-d42,282a0dee,Medicaid
+11504a87,1e12782c,King Group,406500b0-d33,39917d5f,PPO
+1163fea1,1018f4ca,"Parker, Douglas and Collins",1c9b1eeb-7bc,c58d8544,HMO
+12c0de96,5a5121fa,"Vazquez, Thomas and Wallace",8c578028-6c6,3a5c2ea7,Medicare
+13a0cf02,09dedfd3,"Vazquez, Thomas and Wallace",a8061ad4-5ab,87ac6000,HMO
+13a57af7,360292ed,"Parker, Douglas and Collins",527ea48c-f04,d627a25c,HMO
+146d52bc,8091c7c0,"Vazquez, Thomas and Wallace",960e9843-a47,db28b0b9,PPO
+1507c47f,da4a7745,Potts Group,ac4dcdfb-ee5,87c97d40,Medicaid
+15ddd351,a5be8c9d,"Parker, Douglas and Collins",57a894df-f8f,83f93d33,Medicare
+16570c19,82471bd7,"Vazquez, Thomas and Wallace",d96a1a6c-285,57f08f5e,Medicaid
+16bca23a,e895c4ce,"Parker, Douglas and Collins",51183def-6e8,40f7d8b6,Medicare
+16e02e8b,71b57534,King Group,e4c4d5d8-0a6,8ad56fac,Medicare
+17589364,5f58d010,"Parker, Douglas and Collins",edc6091a-e86,1b233b40,HMO
+17d177f3,576be47f,King Group,dc60863a-0b6,f942c74f,PPO
+180184a3,01d22f93,King Group,5c589301-cb8,d2d83734,Medicaid
+185072e3,72db80e2,King Group,6d3aa31d-a91,dfe9d958,PPO
+18904d5c,b2977f55,"Vazquez, Thomas and Wallace",000da68d-430,af1e73dd,PPO
+191cd462,04025f22,"Gallegos, Green and Douglas",80d38c27-3f5,de4ee6c5,Medicaid
+1926be1c,8eb427a7,King Group,cb36ffaa-1c2,8f702556,Medicaid
+1997c70a,7a4b42dd,"Parker, Douglas and Collins",4f0a6830-cfe,3dd9ca49,Medicare
+1a1d1da4,4ec98ac8,"Gallegos, Green and Douglas",54f65c41-e50,bb35c837,HMO
+1ae11214,6f399b84,King Group,2043fe8e-dcd,0f322d6a,PPO
+1bd88e83,6c7ac5c5,"Parker, Douglas and Collins",108f9f02-a28,ee56e7b2,HMO
+1bea2e75,2948c55e,"Vazquez, Thomas and Wallace",1fb51c74-c4a,db7c9cf9,HMO
+1c2eb5bb,e7d73864,"Gallegos, Green and Douglas",195ca3e9-2d1,f995f023,PPO
+1c8742c9,65811a9b,"Parker, Douglas and Collins",d0ba9978-d93,11444df9,Medicare
+1ce096ca,0bbae57f,"Gallegos, Green and Douglas",329d9d02-81d,dc66d20f,PPO
+1d3adb7e,09561779,Potts Group,3b3b7473-c95,8d080a63,PPO
+1d8180a8,d8344a77,"Parker, Douglas and Collins",791fac83-0f6,0afcb2cc,Medicaid
+1e2be83f,e7c76cb7,Potts Group,f92fef4c-35c,71d2648b,Medicaid
+1e76ec7d,13c54aef,King Group,fd73b2ed-b43,73eadf88,HMO
+1e965fe3,c5fd8a74,King Group,8af05532-d5d,f54ad336,PPO
+1e9d6fd0,ba2e3b3f,"Vazquez, Thomas and Wallace",b856ad20-272,fdf4f8ec,HMO
+1efcf695,b4c0a328,"Gallegos, Green and Douglas",6ca34344-628,07114f8a,Medicare
+20b2d0a3,4c8e0417,King Group,82183ae9-e50,630a2507,Medicaid
+20cef66f,4acbfbaa,"Vazquez, Thomas and Wallace",f113e37e-db0,23e2fc0c,Medicare
+2117d045,41683e1c,"Vazquez, Thomas and Wallace",d47988aa-07d,0f76f6b5,HMO
+23261fb1,4d3a97e7,Potts Group,e6383679-a4f,f64114ec,HMO
+2399c7bf,25997049,"Vazquez, Thomas and Wallace",fccf3253-cfe,b1eb003c,HMO
+23b86350,ab8acba8,"Vazquez, Thomas and Wallace",b1f5f684-9ec,8663d66f,Medicaid
+23d78a47,0b068df6,King Group,43957758-733,b9af131e,HMO
+243df217,b7e510fb,"Vazquez, Thomas and Wallace",f94a0c94-ac7,e55436bd,HMO
+2513ed1f,cb33c06c,"Gallegos, Green and Douglas",13e00a9c-ba8,892bf57b,Medicaid
+25781eee,ce710860,"Vazquez, Thomas and Wallace",d38f2a37-dbe,903aae67,HMO
+260c2f31,693e9b09,"Vazquez, Thomas and Wallace",c093b62f-095,925dc3fe,PPO
+26b47eac,d1692997,King Group,0094c376-c60,6cfd2cc3,HMO
+26fd6b79,1b7e26be,Potts Group,08cd1f3c-0f0,225d8468,PPO
+284ff8df,100e1279,"Gallegos, Green and Douglas",78089ba0-daf,2f2e22fc,Medicaid
+28b8057f,84391063,King Group,e097e439-560,16e0746c,HMO
+2905e0d7,e3e49c9c,"Parker, Douglas and Collins",3b75f19f-a81,7a757de9,HMO
+2955bb72,ecc7b9c1,"Parker, Douglas and Collins",c7deda98-e8c,54c28db2,HMO
+2993e2da,cac78809,King Group,84e2f93c-d3b,f393fa7f,HMO
+29d6f97b,bbd82418,King Group,91642349-8f7,d52dd76b,HMO
+29e59d67,b48272be,"Gallegos, Green and Douglas",e179fd09-f43,3988ace7,Medicaid
+29e89bb3,cb2e8725,"Gallegos, Green and Douglas",8541b68d-5bf,23c017f0,PPO
+29fad876,58101e19,"Parker, Douglas and Collins",f1fe4c75-34b,a912dc2e,PPO
+2a28f511,4acc37e0,"Gallegos, Green and Douglas",c17d9659-f08,1126f95a,PPO
+2ad109cb,6d334b48,"Vazquez, Thomas and Wallace",6bcd91fe-b8e,07e457af,Medicare
+2ad806ef,973aeeb7,"Vazquez, Thomas and Wallace",4750b9db-faa,44bc272c,Medicare
+2b58291f,0e043a29,"Gallegos, Green and Douglas",d3c3a84f-3f0,503b9d74,PPO
+2bdf7af4,a273a074,"Gallegos, Green and Douglas",7c9a68b5-d8d,c42aacb8,PPO
+2bf35831,5b705da9,King Group,a7e1f027-784,b447560a,Medicare
+2c8013d3,7d98374b,Potts Group,769f2951-97f,9f761e02,Medicare
+2da84e29,b477649c,"Vazquez, Thomas and Wallace",164ccdcc-4cd,c226bfed,Medicare
+2e5c464a,0b41f34a,"Parker, Douglas and Collins",0a8a1ebe-109,7fc987a5,HMO
+2e8bad2a,9985af1b,Potts Group,d46556a0-072,2edaaa37,HMO
+2ef07fc8,c9d4a7e1,"Vazquez, Thomas and Wallace",e90bb3a3-d94,87c84736,Medicare
+2f23e011,3ddd2e05,"Parker, Douglas and Collins",89a03da4-d00,afe25688,Medicaid
+2f3546fb,88407d21,Potts Group,8260f5fc-86a,5b8b1d0e,Medicaid
+2fbe511c,4a88dd2f,Potts Group,a114b569-343,0aeb49cd,HMO
+30476ac4,3496040e,King Group,8ce2da15-78c,e207bb06,PPO
+3065873f,4a539ada,Potts Group,888001b3-9b3,7e046c5d,Medicare
+310f3184,142071df,"Vazquez, Thomas and Wallace",06a30b26-9ea,6ee90ae5,Medicaid
+31a5985a,0447a02b,"Vazquez, Thomas and Wallace",5f65459c-600,3199d968,HMO
+31b20af1,964b0431,King Group,226d887c-bf8,4673fbaf,Medicaid
+32715bf8,7ae5a3d3,"Parker, Douglas and Collins",af72d5a1-77e,6e3f5db2,Medicare
+3322b71f,0d7cd033,"Gallegos, Green and Douglas",89098b4e-f62,47a8f1d3,HMO
+3369b563,5ca48eab,"Vazquez, Thomas and Wallace",7ca97e44-4fd,cf5f5624,PPO
+338968b4,c96a814f,"Vazquez, Thomas and Wallace",bcd000b8-f6d,59f9f093,PPO
+34699cc8,d1807fc1,King Group,230e7a5a-dc1,d1e9685a,Medicare
+34821584,c09e64bc,"Gallegos, Green and Douglas",3e44a6c9-d5c,fd24b25d,Medicare
+34c92065,3a4b4159,King Group,6bb92ac0-c52,b2230f93,Medicaid
+34eee42d,eb97b1c9,Potts Group,e943f4af-1ea,dc03de95,Medicare
+3539ade5,7c85ca19,King Group,e2ec3b46-414,18e3bf26,HMO
+3594b487,caa7d2fb,"Gallegos, Green and Douglas",e45ca701-3ba,5dfcec1d,HMO
+35991d5b,a3ff0a12,"Parker, Douglas and Collins",bc5c6472-d00,fde1f598,Medicaid
+35e6625e,b8d11f8c,King Group,cb9d6e91-373,365cae56,Medicare
+361d3f10,13526238,King Group,8f3b7fcd-0ee,2143f920,HMO
+36666310,80db390e,"Parker, Douglas and Collins",994e91fc-cb2,8e350c8e,PPO
+36ea8b02,2d290504,"Gallegos, Green and Douglas",4a14dba5-611,c238afa2,Medicare
+37852ed3,6013f62e,"Gallegos, Green and Douglas",4bc94cbe-71e,04470940,PPO
+37d1e09f,1c56bd3c,"Parker, Douglas and Collins",055a768e-767,9a8ca3d7,Medicare
+37e9ab87,83d70d22,Potts Group,916cda78-ce3,2291ca6e,Medicaid
+38455e51,8d7b64c6,King Group,6d949e98-d24,04d3bf76,HMO
+385ae4bf,a4c98ff0,Potts Group,6fb38194-a80,e67b9a70,PPO
+389fa5c3,e4b3c7b1,"Parker, Douglas and Collins",ddfc9d92-871,182fe8fd,Medicaid
+38a720d9,0d33d091,"Gallegos, Green and Douglas",cf96be61-08e,8646d41b,HMO
+38fc7f2b,66e63514,"Vazquez, Thomas and Wallace",7b9c0d9c-dcd,3a406009,PPO
+392841cf,e41286d5,"Gallegos, Green and Douglas",2d190eda-106,c225d6fc,PPO
+39f63e9b,6952f58a,"Vazquez, Thomas and Wallace",c701fdac-3b2,7ff09e83,Medicaid
+3a9a23ec,c6a2a0a7,Potts Group,569df7ad-a86,8e6b892a,PPO
+3aa7a623,8a3868e0,"Vazquez, Thomas and Wallace",8e9a6509-f87,76f62aeb,Medicare
+3b54a3a4,6f7abd03,"Parker, Douglas and Collins",bfb61e2f-ab4,6534f01d,PPO
+3b7725ad,a50e50d0,Potts Group,dd872aa4-1d7,c67e9f62,PPO
+3bf804c1,236a4865,"Vazquez, Thomas and Wallace",ae290812-f5b,07089585,HMO
+3c166350,7161c9d4,"Gallegos, Green and Douglas",9a91a2d3-c76,70292887,HMO
+3c500293,320eca9a,"Vazquez, Thomas and Wallace",f2f5c0ba-694,d800afa7,Medicaid
+3c885756,96982826,"Gallegos, Green and Douglas",3356feef-3f6,e88c43d0,Medicaid
+3cdfb53a,be90a10a,"Gallegos, Green and Douglas",5b8da65e-e16,822ae947,Medicare
+3d5d5112,0d2a1206,King Group,d3973877-f8e,3f3da724,PPO
+3e20c50f,c86abde7,Potts Group,7c7ad1c9-625,73d8b860,PPO
+3ed09159,75db6b0c,"Vazquez, Thomas and Wallace",89143c4d-b24,f145180f,PPO
+3f834345,194dc05c,King Group,49f6742f-608,b1f6c43a,PPO
+4002c6a9,bb1e7e43,"Vazquez, Thomas and Wallace",6b0e2561-cf3,aa19003a,Medicaid
+409102c4,4f7eb90c,Potts Group,a5f37f56-b45,4f537753,PPO
+40b7669a,6bb0698c,"Vazquez, Thomas and Wallace",99e36445-632,d9ea4b74,Medicare
+4241c1d5,a4524cb0,King Group,45337fec-f3d,6d086069,Medicare
+434cb7e1,39079c62,"Gallegos, Green and Douglas",65609676-82a,0c9e96a2,Medicaid
+4426e257,2f53daa0,Potts Group,b9935405-6b3,ac1cc3ab,PPO
+44aca881,5196f522,"Parker, Douglas and Collins",d31ef791-66a,e9bd47bb,Medicaid
+459b4e54,8952f0e7,"Parker, Douglas and Collins",7e663d97-4e7,24385e52,Medicaid
+45b7cd87,ce5fd438,"Parker, Douglas and Collins",a6c03486-553,7fba244b,PPO
+46343400,1fc39b9c,"Vazquez, Thomas and Wallace",dfd8afc2-801,f91df0df,Medicaid
+464e372a,ad95e809,Potts Group,86bed8c4-af4,537730fd,PPO
+47216980,893dd88b,"Vazquez, Thomas and Wallace",21f3d17c-7e0,33ace89f,HMO
+47267a63,5ebffaf5,"Vazquez, Thomas and Wallace",0dd43911-fd3,cf633a4e,Medicare
+47671fa0,13212ac0,"Vazquez, Thomas and Wallace",c6820b02-1de,00b9efde,HMO
+484fe03c,b2e6c821,"Vazquez, Thomas and Wallace",d21ad05d-aa2,2a1c71a7,PPO
+49303b59,a684bda5,"Parker, Douglas and Collins",0c04f895-548,c091a3d7,Medicare
+494d0689,b8333b24,"Parker, Douglas and Collins",8c642fa7-47a,8b9cdf2f,PPO
+4967c218,89d4df5a,"Gallegos, Green and Douglas",3be7c5cc-deb,63fb60c8,HMO
+497eeff8,271f4938,Potts Group,8d4b2619-9b6,12922a64,Medicaid
+49c00ad0,5acdff9f,Potts Group,e8e5a724-2f4,a88c2c8e,HMO
+4aa1c36e,7b61673a,"Parker, Douglas and Collins",f86d9c17-f96,05ea58e1,Medicaid
+4b902d6f,4d2a7aa9,"Parker, Douglas and Collins",47a5ad8b-162,5e6adc3d,PPO
+4bbba90b,54b19484,Potts Group,e42bd05d-025,a2e6a2b8,PPO
+4e39291e,c2e5ed0d,"Gallegos, Green and Douglas",30385b95-7dd,eeb18415,PPO
+4ec68870,d7225431,"Gallegos, Green and Douglas",abe4fcbc-f5c,80f87ab9,PPO
+50017926,2725bde0,King Group,199a8cff-26b,ea281d30,Medicare
+5007c253,7ab58151,"Gallegos, Green and Douglas",55d0b0ac-198,2359fb5f,HMO
+508cd46d,4b99ca87,King Group,20c25455-f87,cbe1f0e6,HMO
+50927d13,690a65bb,"Parker, Douglas and Collins",a927b5b7-881,7c3a43b3,PPO
+50db7a05,a4b3d633,King Group,9907205c-aa7,67600105,Medicaid
+50e3e59e,8c393810,"Parker, Douglas and Collins",ca6320ab-787,2e3eeb98,Medicare
+512262d2,1f1331ee,King Group,4d69418d-4a8,12e04f23,HMO
+51393a31,230291c1,King Group,ba9c8d49-fc6,fcd87477,PPO
+528b7771,7dcf43cb,"Gallegos, Green and Douglas",3b9af9af-59b,2377f8a8,HMO
+52b6de19,c21f5103,"Gallegos, Green and Douglas",6ccce48a-3db,2a8698f1,PPO
+52d71402,989b220a,"Parker, Douglas and Collins",1c0bf62b-f23,3b7432bc,HMO
+53b4bd68,16874dc2,"Parker, Douglas and Collins",7b8b44d2-09a,fa445aee,PPO
+54244f9c,f4bf6741,Potts Group,5b8948fa-b5f,9a579e76,Medicaid
+543c947f,fc679d26,"Parker, Douglas and Collins",f42771e6-b81,7a35615f,HMO
+5474aa6f,dbd6d360,"Parker, Douglas and Collins",2671be14-8ae,740b6b53,HMO
+5505b6be,f63635c4,"Parker, Douglas and Collins",7def727e-609,30aa45fa,PPO
+556c3fb9,7058229e,Potts Group,0f071d0e-cf2,718ae688,PPO
+55d24dbf,f189f655,"Vazquez, Thomas and Wallace",a5d84984-5df,de5a047b,Medicaid
+563b73b8,775acf9e,"Parker, Douglas and Collins",964abab7-c35,4eaa3b5a,PPO
+573a56b9,7cf5a3ef,"Gallegos, Green and Douglas",9ac98a08-9c6,38297fe3,HMO
+57434559,a79a58e2,"Gallegos, Green and Douglas",9241082c-e1c,ffc57d48,Medicaid
+5764f895,36f193f9,"Gallegos, Green and Douglas",0caac3c7-df9,2dd298c6,PPO
+5796a810,b3093eb6,King Group,3ab1e6d4-19c,a846d8d0,HMO
+57e4d4c1,f11946fe,"Gallegos, Green and Douglas",0113f2b5-5a2,fa26bedb,PPO
+57f45c4f,17d43d3b,King Group,74d5cad3-b36,93a9de72,Medicare
+58915791,81e4519a,Potts Group,13beb3b7-037,2929b337,Medicare
+58e97b24,93cce8f6,"Parker, Douglas and Collins",a3548b06-0b3,f32800c0,Medicaid
+594dc332,c8288587,"Parker, Douglas and Collins",93ccbb4a-bcf,c08c8502,Medicaid
+596803cd,b5159fc4,King Group,f6bfdf29-059,53d78d60,PPO
+5a721b4c,29ad0b4f,Potts Group,abea76ac-6b8,cb39a77d,HMO
+5adb7324,3fe78969,"Vazquez, Thomas and Wallace",b241cc11-50a,fec40639,Medicaid
+5bbe8e15,10b7ad26,King Group,77d17013-ca1,f28a9342,Medicaid
+5c2ecfbb,e5081866,King Group,db12fc52-bd3,988e6b0a,Medicare
+5ce342e7,949ff21d,King Group,0d575714-831,f411ec92,Medicare
+5d50cd42,388360f7,King Group,81007c32-0a9,9325f648,Medicaid
+5d7bbaf2,8e3bf083,"Vazquez, Thomas and Wallace",14d2d26a-709,c35662ec,Medicaid
+5dfd5623,2125466a,Potts Group,c876568b-f15,05622b5c,PPO
+5e5fc6c5,44255267,Potts Group,75e3e8d6-ec4,a506c137,PPO
+5f917832,7360d692,"Vazquez, Thomas and Wallace",4f924110-ae0,7a26ec05,Medicare
+5fd27e5d,d7b5fc7e,"Vazquez, Thomas and Wallace",fc7da2a8-e04,b17800a0,Medicaid
+600aa831,ea614abb,Potts Group,bd4b4033-263,ec97cb9c,HMO
+609cc846,3aa97717,"Vazquez, Thomas and Wallace",6ecfce64-92f,c223bd7e,Medicaid
+60a507d3,cb320557,King Group,b6c4e59f-1e1,ba43ccaf,Medicare
+61459a36,cce87f6b,"Gallegos, Green and Douglas",aeae77eb-12a,eca8f8b5,HMO
+6224d2a6,d6aa1812,"Parker, Douglas and Collins",df0edd1d-f07,218689b4,HMO
+6230f7eb,ded53693,King Group,7804198f-b5b,f727bd7b,PPO
+6275c61d,2e0c229e,King Group,619123df-650,7f5b8fd2,Medicare
+62da9691,895a4ab6,"Gallegos, Green and Douglas",d60aff43-9d9,5ace76a7,Medicaid
+635a2ac0,876bc99d,"Vazquez, Thomas and Wallace",0ca81d81-18e,2c2a340c,Medicaid
+6371aa41,5b05a5fa,"Gallegos, Green and Douglas",635f72c0-5dc,cea33e71,PPO
+63bd6c4d,51c3697b,King Group,2ebb3ab6-846,a2cb2134,HMO
+63c2f570,7da4721c,"Vazquez, Thomas and Wallace",613be594-784,e39beb19,PPO
+656d135b,67e305ba,"Parker, Douglas and Collins",b802cfc3-4a5,16e18442,PPO
+65d45cb0,d61bda9c,"Gallegos, Green and Douglas",fe8e0a85-514,698a90ab,PPO
+65e898b6,a7ed448d,Potts Group,9a68fee0-1a5,06e40c51,HMO
+663498c6,60d653a4,"Gallegos, Green and Douglas",6987cc26-f48,65d13f82,PPO
+6764da61,c62ffa66,Potts Group,ab94ef1c-a61,a26815fe,HMO
+67ac16ef,86441029,"Gallegos, Green and Douglas",ce7de8a4-7bf,949272c1,Medicare
+688cbee9,61568d7e,"Gallegos, Green and Douglas",6d036386-d0d,76d84120,Medicare
+68adc02e,f64b5d91,King Group,65ff0b22-bb6,e9db5cd9,PPO
+69aa1a0a,6d5549b8,"Vazquez, Thomas and Wallace",1310ab3b-2e2,d3e1655e,Medicare
+69ec4769,70271685,"Gallegos, Green and Douglas",2001b845-ae4,e50bacfc,HMO
+6a29b639,fb2c0ab8,Potts Group,4af125e5-557,2cc0951c,PPO
+6a3bda6a,f09d30bf,King Group,70d212ff-a17,166bc997,Medicare
+6a3c3a4e,b8dc77e3,Potts Group,5f8564e2-137,7eb7ee5c,PPO
+6a51215a,30699397,"Parker, Douglas and Collins",d1ba5b4f-0b7,c0de91c5,Medicare
+6a75101e,f669985c,Potts Group,1cc51874-3e7,63ebebb3,PPO
+6a817a75,a1649cdf,Potts Group,684218a5-3a5,6f1d27b4,Medicaid
+6ba40e06,c0d100cc,King Group,44feb058-abf,6b57cb0f,PPO
+6c005339,712fff1e,"Parker, Douglas and Collins",640a99f0-569,69cf906d,HMO
+6c9f261b,c94794b2,"Parker, Douglas and Collins",0df2b1f8-598,01271e0a,PPO
+6ca7151d,6441fa04,"Parker, Douglas and Collins",9946a0a6-bcf,3750ea04,Medicaid
+6cd07c42,e7d68a1d,"Parker, Douglas and Collins",5dd827fe-7a6,41ed070a,PPO
+6d15ff0f,8c0ebba9,"Parker, Douglas and Collins",be0c081f-f09,6575b507,Medicare
+6da004c5,22953b0b,Potts Group,23b415a9-484,89b02f9c,Medicaid
+6dde0c3b,6d2480b5,King Group,e21e4c9e-3f0,e823f28c,HMO
+6e395dd7,cb92ab2a,"Parker, Douglas and Collins",6320fb04-ebf,29843e68,HMO
+6e76c3a9,d560bf6c,"Parker, Douglas and Collins",d2f47c20-ee3,f2f3ce44,HMO
+6ed846d6,eb69fcbc,Potts Group,942a2782-8ab,baec9645,Medicaid
+6f49cf08,19456307,Potts Group,7fb8fe28-e60,b91d67cb,PPO
+6fbbfc2e,d970d4f6,"Gallegos, Green and Douglas",8830fb72-a76,8879a109,HMO
+6fcad9a4,b16b996b,"Parker, Douglas and Collins",6c761e0e-c71,ee059ca9,Medicare
+70dc0abb,c47577e7,"Parker, Douglas and Collins",8b776c76-222,daf0332e,Medicare
+70ee2803,6b62e115,"Gallegos, Green and Douglas",5f4a4470-316,949f378f,Medicare
+710ee8cb,21c2ce2f,"Vazquez, Thomas and Wallace",37c4ac55-9c6,36fab826,HMO
+716b5550,c6d677aa,King Group,f777719c-d18,a42d9133,Medicaid
+7193d2ed,913c3e9e,Potts Group,84936643-6d8,39f67160,HMO
+72836ce3,db5f5116,"Gallegos, Green and Douglas",10676953-052,b3f06bfa,Medicaid
+72d53072,9644e310,"Parker, Douglas and Collins",e78891d4-d69,a27b15f4,Medicaid
+73b3ff9d,562470d0,"Parker, Douglas and Collins",f217dbc8-53a,6ca2fcb7,Medicaid
+73ff1e72,7e7fd61e,"Gallegos, Green and Douglas",d6ddc679-199,8e2e6ac8,Medicaid
+74b45e10,d14b061d,King Group,efdce0ea-19b,e8363166,PPO
+750ea0d3,c4bc0ce6,"Gallegos, Green and Douglas",f044d818-ba9,97bb74e7,PPO
+756a7495,113e7a32,"Gallegos, Green and Douglas",3278ded0-8c7,66df515c,HMO
+75f6ae74,8caffa0d,Potts Group,3a5b9497-855,8da5081e,Medicare
+769ff492,88c75bbd,"Gallegos, Green and Douglas",28615e3b-d9b,285203a7,Medicaid
+76ebe51d,c830f7fb,"Gallegos, Green and Douglas",0585dfe1-707,a384afd0,Medicare
+76fa6c70,717ea737,"Vazquez, Thomas and Wallace",4c67f8bb-aad,9973c52e,Medicaid
+773ca53b,e5d0d669,Potts Group,32d7cd30-c39,d836f109,HMO
+77519be6,b58f1dd0,"Gallegos, Green and Douglas",2d588cae-3ee,f250f6a8,Medicare
+77b896b1,6a104761,King Group,d61767ed-76a,52e3b568,PPO
+77ddd3b1,7608c808,"Parker, Douglas and Collins",2cf474ae-315,b1c8d5be,HMO
+77eb87ad,2d6bc5d4,Potts Group,eda1052a-d1d,fc88fcd4,Medicaid
+780d743f,80d457bd,Potts Group,c445f4b3-c1f,1695cf50,Medicaid
+78e3c6fe,047a023d,"Parker, Douglas and Collins",beb8ffe9-5a7,a03b337d,Medicaid
+7a175ad1,6c3d05c0,Potts Group,1e4936d7-19c,9ff2b3d0,HMO
+7a95e414,062e63e5,"Vazquez, Thomas and Wallace",0615ecd3-f82,5b60ff90,Medicare
+7a992e6d,4e9379f6,"Gallegos, Green and Douglas",f3f2e9c8-592,fff4b065,Medicaid
+7b3ede5c,3dfc583d,King Group,8189e29f-8e3,f912eb11,PPO
+7b470551,05a02cb5,"Parker, Douglas and Collins",1cce1812-4a9,74bddbb9,PPO
+7b4d54fc,1234160c,Potts Group,9221a7b2-a12,dfb3193d,Medicaid
+7b5f17a8,7fc7e618,"Parker, Douglas and Collins",df1aa2ea-6a5,a51ce46f,PPO
+7b9a3cbf,99ee0b07,"Parker, Douglas and Collins",b5cd89a1-864,a6fd0787,HMO
+7bbdde64,89e16507,"Gallegos, Green and Douglas",378135ca-f4b,52475333,PPO
+7c06f29e,c8a79bc7,"Gallegos, Green and Douglas",810a7e7a-6cf,b42a5e68,PPO
+7caae365,04dc0965,Potts Group,09dc2333-acd,505b7389,HMO
+7e0473dd,88ca1e60,"Gallegos, Green and Douglas",ed50aa77-c79,d8b064f9,PPO
+7ed87c95,5cd5db6e,"Vazquez, Thomas and Wallace",f7c2e46e-7a7,9afd3f8f,Medicare
+7f0fb6dc,6d7b22de,"Gallegos, Green and Douglas",4692e829-8fc,367649e2,PPO
+7f69adfa,69bb4753,"Vazquez, Thomas and Wallace",35b20837-ac4,2285b645,PPO
+7f81b843,02bc23c6,"Parker, Douglas and Collins",e12441dc-885,1cd36851,HMO
+7fb9713a,65f60508,"Vazquez, Thomas and Wallace",49bfab34-a94,6f4c79fa,Medicare
+80842d53,5a36f581,Potts Group,6ec0a65b-31f,90ebb895,PPO
+81131518,32de9336,King Group,565636f5-dc3,688d9795,Medicare
+8137cc00,e42f7e92,"Parker, Douglas and Collins",3edbccf3-2c9,96c2d51c,HMO
+81b5cbab,3144248f,Potts Group,86025c27-a98,b185c554,HMO
+827a12be,91c127de,"Parker, Douglas and Collins",86cf025f-0d6,90e03b59,PPO
+82c5c4c2,4653a0db,"Parker, Douglas and Collins",0972e35a-c5e,1d09052a,HMO
+82f01056,2127752b,Potts Group,ffe81e6a-214,a2902876,Medicaid
+83fc283c,d58d9f2e,"Gallegos, Green and Douglas",2e2e3ce6-073,1f621aa0,Medicare
+844c66e2,e5c5eaaa,"Gallegos, Green and Douglas",6574c6bb-004,6c56808e,PPO
+84c19737,915d2444,Potts Group,3cd5ef0d-a1b,355ae373,Medicaid
+85483f66,6137c4c9,Potts Group,5f1b98f2-bc3,9a36e303,Medicare
+8619ac37,9e8e16c2,Potts Group,fd39f7ae-a2c,1cda9ecb,HMO
+86248364,dc0d1e98,"Vazquez, Thomas and Wallace",39f30e45-a4b,f8d9233d,Medicare
+86a446e7,d4afc257,King Group,926ecf2b-603,f1a42e7b,HMO
+86f1355c,7896f5e3,King Group,41ada911-796,74550bfc,Medicare
+870b96ce,16b09220,"Gallegos, Green and Douglas",b4996cdf-f70,7df19ecd,Medicaid
+87d1ac71,9cc0088e,"Vazquez, Thomas and Wallace",2e6ca6bf-8f6,784c398d,Medicaid
+880349a2,20230137,"Parker, Douglas and Collins",f9e8d98b-c3f,7ac2e93d,Medicaid
+881dd525,752c5fc8,King Group,8072d864-39e,607f7ab9,HMO
+8866dba1,ccb63c73,King Group,284780ad-d7c,bd98f614,HMO
+88d80ba0,d8ac432e,Potts Group,afbc5622-81b,d3416fdb,Medicaid
+89917955,840d2456,"Vazquez, Thomas and Wallace",1c04f5cf-f00,223ae7b7,Medicare
+89e38bf1,25a4be24,"Gallegos, Green and Douglas",50943634-86c,7c07c405,Medicaid
+8a2a5b08,7c21901d,"Parker, Douglas and Collins",ea58a58c-12d,3f8fede9,HMO
+8a722085,cf52f2c4,King Group,afeaee85-8e2,510c147e,Medicare
+8aa2c730,3e185b4e,"Parker, Douglas and Collins",01ced909-ada,f1243eb2,Medicaid
+8bb68255,013cfd8b,"Parker, Douglas and Collins",a4c8b50c-ccc,9cfde747,HMO
+8bd72b32,324bb2ac,King Group,91805739-140,1f77c7b1,HMO
+8d0112d4,1464f9ed,"Parker, Douglas and Collins",82c40123-499,4f99020d,Medicaid
+8d0fa07f,23dcd4bd,"Vazquez, Thomas and Wallace",403e0278-da1,f41de0c2,HMO
+8d50ebd3,70ee4809,"Gallegos, Green and Douglas",fd13465c-395,98d63a26,Medicare
+8d8f994f,44d9f7b4,Potts Group,5365d810-d6a,9bce0590,Medicare
+8e06fdb6,59ee2c92,King Group,30f89e8e-cd5,9a564057,Medicaid
+8e46fe88,4107b33d,Potts Group,7536dd79-9a1,1e7b30d7,Medicare
+8e635494,d2943884,King Group,3d43cccc-89a,eeca29b2,PPO
+8e74a24b,43e17137,"Parker, Douglas and Collins",6bbc5bcf-abe,41fe8a26,Medicare
+8eb01477,49900780,"Vazquez, Thomas and Wallace",d65c513c-2a9,a75ef40e,Medicare
+8f290d96,cf26f101,King Group,5bcc93cc-d71,6315e4b0,HMO
+8f6d7d65,5c4bed08,"Vazquez, Thomas and Wallace",306048b4-4dc,5d7fda9b,HMO
+8f6fd5bb,94d8bc14,King Group,233be0f4-e0f,6be2414f,PPO
+8ff58dc6,4d89c972,"Vazquez, Thomas and Wallace",cdee87db-897,ff6d57a5,PPO
+90b7919a,8122d0e0,"Parker, Douglas and Collins",47fc220b-16a,ec36e317,Medicare
+90e4f50c,c6b730b3,"Parker, Douglas and Collins",345264bf-e16,da214715,HMO
+90f92b65,8edd888a,"Vazquez, Thomas and Wallace",af697b02-5dc,437b6206,HMO
+91850845,975f8a8c,King Group,cf45c5c8-d4e,4df62e28,Medicaid
+91c74beb,e50fe94d,King Group,ff45bc3c-ca8,80c6c1e4,HMO
+92350518,f8d351c3,"Gallegos, Green and Douglas",04cbd393-07e,6f4fde9a,Medicaid
+92fb4596,472f51e1,"Parker, Douglas and Collins",ead9b347-edb,355c1e02,Medicaid
+939b6f0e,e1abc580,"Parker, Douglas and Collins",16e1fce1-4ba,b350c30f,Medicaid
+941138f3,76cfbd98,"Vazquez, Thomas and Wallace",e01c3952-224,1599004d,Medicare
+9481570f,30ef08a5,Potts Group,e9ea7c40-9db,304e171c,HMO
+95144ce8,0210d69c,King Group,37f11a9a-137,3fe1ceae,Medicaid
+95921366,35be3676,Potts Group,b054deb0-2ed,f6cd10be,PPO
+95a9b060,47d42cd3,King Group,53baec20-acb,6de12394,PPO
+95c82f2d,8b92bd00,King Group,e5cd3047-9a4,eb867d8e,HMO
+96029842,48d9900f,"Vazquez, Thomas and Wallace",0f175f9d-83a,bbb0fa52,Medicaid
+965536a9,987f1053,"Gallegos, Green and Douglas",23b3828d-c21,9e94d167,PPO
+972c87ff,ef070d6d,"Gallegos, Green and Douglas",1cce9a07-656,ecb469f0,Medicare
+97389f5d,6eafb5ac,"Gallegos, Green and Douglas",c9d7787b-cf7,51900b14,Medicare
+97bdec52,11130475,Potts Group,93a4bd71-b80,734f6419,HMO
+98281c29,28259ba8,"Parker, Douglas and Collins",0c582d5d-2c6,0af1ab6d,Medicare
+985980ce,6b2eebb6,King Group,8b9e2ade-ead,60824706,PPO
+9956be7c,47a28b32,"Parker, Douglas and Collins",d6dbda50-dfe,5b5089da,Medicare
+9a8120a9,e1ac6d26,"Gallegos, Green and Douglas",ea5f94ce-1b0,bb10562c,PPO
+9aa25076,217857c0,Potts Group,dc7ad185-76f,51b4808d,Medicare
+9af611ba,0a425536,Potts Group,c22b3217-976,116bc32e,Medicaid
+9badefb0,635b5c8e,"Parker, Douglas and Collins",eff78990-cb5,b34ae4f8,Medicare
+9c99176f,2be9b2c4,Potts Group,7f77b4f5-c54,bcef31f7,PPO
+9d52b612,b4df1e75,Potts Group,9161a336-10e,f57fd627,PPO
+9da56e8f,c0cf3b9e,"Gallegos, Green and Douglas",52d71288-031,43367da5,Medicare
+9decb295,0cc41ed6,"Parker, Douglas and Collins",2cdcf059-022,ff89bae0,Medicare
+9dfbeeb8,2ff8a234,King Group,e3afa0cf-d0b,0475d9f3,HMO
+9e1451b2,54399fb2,King Group,6ff4a05f-d28,be62a774,HMO
+9e516512,a8e886ac,"Vazquez, Thomas and Wallace",496cd495-f76,18b53eaa,HMO
+9eb30039,e916b82f,King Group,823a73b9-1c7,e9cf1aac,Medicare
+9eba29d0,5d9afe15,Potts Group,589e5452-81c,aa1eff84,Medicare
+9ed64e31,28148fe1,Potts Group,061c50a3-549,cc0956e7,Medicare
+a0411e63,ed1a57f0,"Gallegos, Green and Douglas",253a070c-a8c,51cedb23,PPO
+a0e54e32,da1ade50,"Gallegos, Green and Douglas",6059dd1a-da4,e7c55fd2,PPO
+a13e2c30,56ef386a,"Parker, Douglas and Collins",9dd93335-26e,73df9bf9,Medicare
+a1a8e56e,e078f22f,"Vazquez, Thomas and Wallace",74a87a1d-a91,82855005,Medicare
+a1b31410,2b289ab0,Potts Group,41e45fb7-44d,35937472,HMO
+a1f1d60d,fa2dde71,Potts Group,e32ad435-33d,41323415,HMO
+a2838323,43f388aa,Potts Group,f6040ed2-cd4,1bd84fda,Medicare
+a2e08895,031bd0c9,Potts Group,7462169c-69b,8d00dc05,Medicare
+a341ff3e,d0af609d,King Group,f93df0a6-ea4,82e45de6,PPO
+a3547b3e,5089fc1e,Potts Group,8cf54c0b-d71,6a95e0ba,Medicaid
+a50be836,ce3770f2,"Parker, Douglas and Collins",44a322c4-5e8,2d7123b4,HMO
+a54db4bd,a0eb9aea,"Parker, Douglas and Collins",14a5003f-d80,d0962492,Medicare
+a581972f,967cdbab,"Gallegos, Green and Douglas",2d78681b-876,8fc9817e,Medicare
+a6971e25,b6116295,"Parker, Douglas and Collins",d328b032-2ab,b30cd67f,Medicaid
+a72fb652,07891905,"Vazquez, Thomas and Wallace",78a337e7-717,28097c5d,Medicare
+a9020de4,9b93943e,"Gallegos, Green and Douglas",45271c2a-ba7,45666b8b,Medicare
+a999c672,246a5ee4,"Gallegos, Green and Douglas",b814517f-688,b9848497,HMO
+a99ae315,2231d221,"Parker, Douglas and Collins",d4ea55ba-59a,a03244a1,Medicaid
+a9f4dc48,a14debcd,"Vazquez, Thomas and Wallace",e7f40a39-191,cc7db194,Medicare
+abb5bc30,8fd75d33,"Parker, Douglas and Collins",5adf48ac-601,5dfed4c2,HMO
+ac40fad2,f294e5fd,"Gallegos, Green and Douglas",44043adb-bab,92900f1a,Medicare
+ac560b20,809146f9,"Gallegos, Green and Douglas",495e7c6f-2a1,29355601,HMO
+acaf708f,498697e5,King Group,47d17d80-6e9,9b7a9c80,HMO
+ad068299,cd93257e,Potts Group,0d96296b-96b,b97dba12,Medicaid
+ad9a9deb,c94703f3,"Vazquez, Thomas and Wallace",09ffe974-451,c3b7b1c9,Medicare
+adbcbb6f,0ba66332,King Group,f8dae267-863,cc996014,PPO
+adfbd898,0d2a0e80,Potts Group,5d2dc508-916,8c5991f7,PPO
+ae2305b6,5c51e01f,Potts Group,5428a629-f03,1ad84cbb,Medicaid
+ae9cfe9b,d6026b98,Potts Group,7b6a0802-53d,8e164649,Medicaid
+aea53f2c,5450f49e,Potts Group,562c8633-d4b,a25896d2,Medicaid
+aedd8910,2c25d46d,Potts Group,938a74e3-c6b,97423fe3,PPO
+afa1414e,cdc622b2,King Group,cf00ce4c-0ae,43837bfe,Medicaid
+b0505a3d,ade440e7,King Group,15d46969-710,64f435aa,HMO
+b09317f5,c7c4fa1c,"Parker, Douglas and Collins",6ecf1b7e-242,5bc37ac4,Medicare
+b1174588,667078e0,"Vazquez, Thomas and Wallace",81f1512c-b5e,95e10134,Medicaid
+b1e451d6,77ca5576,King Group,7b221a61-2e4,07228e08,Medicare
+b249a944,5681fe67,King Group,24e24839-4ca,dbca869e,PPO
+b28edab7,75c2a94b,"Vazquez, Thomas and Wallace",a2da7c4e-8d4,ad1207a7,Medicaid
+b2d3e113,3469dbaa,Potts Group,faa5c904-2d0,46cc2f69,HMO
+b3a9e61e,713c1486,"Vazquez, Thomas and Wallace",e85b5677-30b,83618ac4,PPO
+b4801c23,7e5acdae,"Parker, Douglas and Collins",9f604352-225,82b40a02,HMO
+b4ec65e1,95e76475,"Parker, Douglas and Collins",99825fc7-5b1,235ce7a4,Medicaid
+b594480b,9e3b759f,King Group,e5bb9b70-079,b06f38b0,PPO
+b5db3937,32702689,"Gallegos, Green and Douglas",603efa5d-2b8,bf8898bc,HMO
+b62f560b,e280bd8c,"Parker, Douglas and Collins",ca22ba2f-5b5,46ddb814,Medicaid
+b63fa40f,eac0e271,"Vazquez, Thomas and Wallace",71db28af-d71,b803676d,HMO
+b7474585,497e1f95,"Gallegos, Green and Douglas",e67ded4b-870,6c9459f9,Medicaid
+b83b6883,3045cc85,"Gallegos, Green and Douglas",d348cf1f-ffc,34dbad4e,HMO
+b8ab8712,3f3347ab,Potts Group,27fe7909-8ff,2a64f4d5,Medicare
+b8ad63a3,c22006c1,"Parker, Douglas and Collins",2258cbbd-750,398cd245,PPO
+b8b8f148,9d72207a,"Vazquez, Thomas and Wallace",e7f3931a-415,02462569,Medicare
+b95aea77,4ec8bb9a,"Parker, Douglas and Collins",69bd717c-34d,24cd57ab,HMO
+b9c479d6,b2c92380,"Gallegos, Green and Douglas",fa7cf3d7-325,eae6f611,Medicare
+ba95d9f6,752a5f83,"Vazquez, Thomas and Wallace",efe3bd1f-140,2362691f,Medicaid
+ba96c701,504686d3,Potts Group,16c29e53-27d,8f73ec69,Medicaid
+baaf3b87,ac6e20bf,"Vazquez, Thomas and Wallace",ebad49b6-336,9eb279e0,Medicaid
+baf27529,939de1ac,"Gallegos, Green and Douglas",bc40566b-aa3,c10dc470,PPO
+bb11b8ee,825b43c7,"Gallegos, Green and Douglas",b094acc9-56c,32b0d95e,HMO
+bb880270,9e4ef6da,"Vazquez, Thomas and Wallace",5d61dc8b-712,b484445e,PPO
+bbdf5b1c,1a040492,"Gallegos, Green and Douglas",d1afe22d-580,0046d023,PPO
+bc3b8bae,1a243c0a,"Parker, Douglas and Collins",18f84532-a62,21314634,Medicaid
+bc9475d6,a2f72a0f,King Group,4cc3d488-8ad,bf1d1dc2,Medicaid
+bc9c8593,5d4df735,"Parker, Douglas and Collins",034d6ab9-03d,70783ab0,Medicare
+bd55fcad,72775666,"Vazquez, Thomas and Wallace",9524df28-65a,987b8063,Medicare
+bd5a39a9,56625108,Potts Group,b6e67a08-c8f,105f98f3,PPO
+bdf7112c,bd96a137,"Parker, Douglas and Collins",a9f31e87-7d6,434d9735,Medicare
+be37ca2b,822d6fb7,"Gallegos, Green and Douglas",992ca5e3-007,6a719808,PPO
+be737f82,51adc624,"Gallegos, Green and Douglas",1ed3f4b0-481,72e6e063,Medicare
+bf12ad23,4217bea8,Potts Group,5ffb0403-f84,555a4599,Medicaid
+bf1ba8a1,0bd06b97,"Vazquez, Thomas and Wallace",b00ccaad-9a3,54e23c29,Medicaid
+bf3fc091,307d2038,"Parker, Douglas and Collins",5801c920-f63,6778f653,PPO
+bffcc2b2,a3bd2a5a,"Vazquez, Thomas and Wallace",bf685b06-92d,9f2580ff,PPO
+c07feb7f,286761ea,"Parker, Douglas and Collins",93e284de-522,b95ead76,Medicaid
+c0c1d53c,8a67bf9a,"Gallegos, Green and Douglas",8dbc3165-80a,8fcc24bd,Medicaid
+c0e490d5,80fd3e7f,"Vazquez, Thomas and Wallace",9fbc7b18-33f,4498c4d4,PPO
+c19a6557,1fa76287,King Group,4d9a13a3-cdc,2f41d887,Medicaid
+c1a17fe4,9c3e19ea,"Parker, Douglas and Collins",8ebf8f1f-fc1,86b99e20,Medicaid
+c1a81c4a,f5162ed8,King Group,7117a5ae-39f,b2fdc937,Medicare
+c1e52a31,323358b4,Potts Group,2d2b2428-a7f,89dca4e1,PPO
+c29bbd8c,f8fb2a76,Potts Group,a6954b29-5a3,68b758f8,Medicare
+c3828f2c,cf0e3dd0,"Vazquez, Thomas and Wallace",15f7b02c-187,3742d8a5,PPO
+c3953be5,a1b48137,"Vazquez, Thomas and Wallace",ea927f8d-b35,51dad148,PPO
+c4217bb6,332ba399,"Gallegos, Green and Douglas",08589cc7-b86,c1476e6b,Medicare
+c49a9eaa,e2264014,"Gallegos, Green and Douglas",c16c0cc9-e13,00ec7881,Medicare
+c503e0b4,2cabaf00,"Gallegos, Green and Douglas",28448a64-f97,08037ea2,HMO
+c54807d0,0b2683de,"Vazquez, Thomas and Wallace",f7681ee0-434,e4312333,HMO
+c575d632,7587212f,"Parker, Douglas and Collins",50c8e7d8-212,9064cd5c,Medicare
+c62a4d6c,1d56b52c,"Parker, Douglas and Collins",19bc6f74-707,18c7dc4d,PPO
+c67ecad9,bbebdc68,"Vazquez, Thomas and Wallace",30e0f9bc-6cd,3b0086cf,HMO
+c6aaf1cc,1b02f869,"Parker, Douglas and Collins",b41d33a2-7c0,6bd7ce6a,Medicare
+c704ccbf,704bfe56,"Parker, Douglas and Collins",765386d5-353,dddadced,HMO
+c794cb2f,3a14b275,"Parker, Douglas and Collins",fcc1b51b-21a,7caad454,Medicare
+c805558e,52de0a04,"Gallegos, Green and Douglas",205cd448-184,f4081f23,Medicaid
+c8416bea,155fdec7,"Vazquez, Thomas and Wallace",ec28b29b-b95,b066cd8b,HMO
+c96be9c6,66ed1443,"Vazquez, Thomas and Wallace",21eb2fc9-da8,6a4c182a,HMO
+c992b8a7,8cfb4cad,"Vazquez, Thomas and Wallace",34765634-605,9c1326bb,Medicaid
+ca4651d9,e80f97ad,King Group,506eaf1f-92d,8eeeef8e,Medicaid
+caf28557,489e43fe,Potts Group,38ef39d6-3e4,70a94127,PPO
+cb3aeb2d,5ca62a1a,Potts Group,10b4ecf5-e68,1d22ae1b,HMO
+cbb8a5ea,f9cd907b,"Gallegos, Green and Douglas",1459fa1d-7da,35323b23,Medicaid
+ccee7ead,60a85cd2,"Gallegos, Green and Douglas",02024ba8-037,2d66f590,PPO
+ccfea8e7,ff2f2da6,"Vazquez, Thomas and Wallace",52cbe3b2-709,bdd97a92,HMO
+cd678670,a1b7196e,"Gallegos, Green and Douglas",5b0fcefd-900,15f2a972,HMO
+cd9b536d,6b5ad271,Potts Group,29a7b49f-921,1cf5639c,HMO
+cda5ed6d,c76a2de5,Potts Group,cd9a3aad-bd4,1daa6b04,PPO
+ce6675a4,bf396aac,"Parker, Douglas and Collins",a0ba6118-6ad,8b2db099,PPO
+cf33ce6d,5df7cb0b,King Group,2fd51858-921,f9efec42,PPO
+cf3e1446,37d809d3,"Vazquez, Thomas and Wallace",f260fc70-b67,966107d4,PPO
+cfca187b,202def4e,Potts Group,9d7d0ab1-00a,b6db8bba,PPO
+d06c8fae,e5f8f6d2,"Parker, Douglas and Collins",96958897-afd,91fe20ae,Medicare
+d07610a1,cb825e19,"Vazquez, Thomas and Wallace",0ea2e341-26e,4e860724,PPO
+d09293c3,5ad22b2e,"Vazquez, Thomas and Wallace",5ecdabfb-819,38312aa3,PPO
+d1100ebb,b143cc72,"Gallegos, Green and Douglas",d1475662-d2c,f6498cf4,Medicaid
+d179f36f,602d0302,"Vazquez, Thomas and Wallace",e3751946-ff0,3d92e7e0,Medicare
+d1d32032,8b6a19a8,"Gallegos, Green and Douglas",37eb884c-4de,0e2b5899,Medicare
+d20645fb,66f6094c,King Group,a2233480-dea,93717050,Medicaid
+d3344990,9cc0e57e,"Gallegos, Green and Douglas",31248cad-3b0,87d9e96c,PPO
+d38b2ad8,babc71bd,Potts Group,af8a41b9-d1f,c83053a6,Medicaid
+d3a9cf88,1b33dfdb,"Gallegos, Green and Douglas",e5250ef2-31f,8a1d70ad,Medicare
+d4a1dd31,14723635,"Vazquez, Thomas and Wallace",3d1f5f58-0aa,cc0aee91,Medicare
+d4fdbb71,ce977d66,Potts Group,56f305ab-710,d9591ff6,HMO
+d52cf7cf,07f9b872,"Vazquez, Thomas and Wallace",93ca32c2-892,08acfa06,Medicaid
+d6201c23,66104589,King Group,49d5b841-a79,3f1d7fac,Medicare
+d6432463,813296f5,Potts Group,e273b7f2-38f,ecd84c97,HMO
+d741ab68,a338b647,King Group,92f3403d-826,6ed768a0,Medicare
+d78a0b82,f35a7c4f,"Gallegos, Green and Douglas",a91e56cf-949,565417de,HMO
+d817884f,72f679fa,"Parker, Douglas and Collins",2f77be65-fdb,4d0afb2f,Medicare
+d82294bf,4b41b47d,"Parker, Douglas and Collins",c3b8fdf7-b14,aa62506a,Medicaid
+d928b8c8,48f37743,"Gallegos, Green and Douglas",6f37fdc7-0d0,e53d91ed,PPO
+dcbc0b5f,631d1886,King Group,7e89fab9-0c4,bdcdd13d,Medicare
+dd55e0ba,5f1b2657,King Group,f32f841a-cd7,29bef3a9,HMO
+dd9196c8,da98058f,"Vazquez, Thomas and Wallace",f114a58a-fdd,037b46bf,HMO
+ddb78bb3,7e35d522,"Gallegos, Green and Douglas",739e63c6-4ba,c691168f,HMO
+ddd645bc,19cf415a,"Vazquez, Thomas and Wallace",1ed5e455-5d9,6c6c55fb,Medicaid
+ddfb757e,af3648d6,"Parker, Douglas and Collins",71728702-939,3d6963fe,Medicaid
+de07d8ca,180ba4fe,King Group,72079942-5fc,98d45db4,HMO
+de1c4fae,1e4e6ea2,"Vazquez, Thomas and Wallace",8294a8e3-ba5,3eaa8c4e,Medicaid
+deb7462e,dd19e1ba,King Group,4bb18b4a-ea9,0067f24d,PPO
+df150b49,b6cb229c,King Group,d57f2e58-348,2fc30860,PPO
+df2e61c2,e43dcc30,King Group,a2947409-62d,72df2023,Medicare
+e0d5fd45,fc2b520d,"Vazquez, Thomas and Wallace",dbf0f5e3-004,eeb95577,HMO
+e1d31cc6,a5469c16,"Vazquez, Thomas and Wallace",6b01fa59-d8f,f671d0d5,PPO
+e39cd507,0866a482,Potts Group,607d2ec8-356,687e75d8,PPO
+e39e2481,0df40668,"Parker, Douglas and Collins",ecc91042-5fd,7d560892,HMO
+e43201db,e2d63f55,"Vazquez, Thomas and Wallace",e9d6e37a-012,a1207504,HMO
+e43ed886,47387c36,"Parker, Douglas and Collins",bbc90bb7-c17,c0028cd0,PPO
+e4a90359,950145a0,King Group,5a8f0546-130,d6f38f88,Medicare
+e59d5166,04541539,King Group,7d6bc523-a69,73a631e2,PPO
+e67d6ddb,cdca2ba5,King Group,6ee869fc-bdf,73ad9208,HMO
+e69da8f4,0910d412,Potts Group,a5a712ee-c97,bc6d9959,Medicare
+e7ce2c4a,a7624c1e,"Vazquez, Thomas and Wallace",89dc8379-a00,3542a93e,PPO
+e8b66fd1,9d2f697b,"Gallegos, Green and Douglas",d825bb70-d99,3a451f23,Medicare
+e8c82df8,81395971,"Parker, Douglas and Collins",e9622c88-f58,76db64dc,Medicaid
+e8d43610,12ba1c66,King Group,d3031284-9fb,99ce8509,Medicaid
+e901826d,09567b16,"Parker, Douglas and Collins",c033a8a6-8d9,15a6601a,Medicaid
+e9a52416,9a7f7226,"Gallegos, Green and Douglas",a3447aaf-ee6,d57faae2,Medicaid
+e9a5936b,5bddaa5f,"Gallegos, Green and Douglas",f124a2c8-6dc,fad60a13,PPO
+ea116eb5,2ea8bba8,"Vazquez, Thomas and Wallace",3d7eb753-06b,95bf322c,PPO
+eae6c723,2cc91822,Potts Group,2a6a5614-024,55e5d411,Medicaid
+ebb80c46,98a865e8,King Group,6b1c83eb-a68,68d367a9,HMO
+ebe07d9f,e1f5b6f8,King Group,64adebaf-de7,ad090fe2,Medicaid
+ec4a20da,925688e7,King Group,2234efe8-b81,16e1e387,Medicaid
+ed6c08c7,c0940457,"Parker, Douglas and Collins",3f92c16a-3e4,37615cbb,HMO
+edadeac6,d28032fa,Potts Group,08c77088-0ff,c9284e66,Medicaid
+edcd9b46,ccd0a615,"Parker, Douglas and Collins",0f155a3a-732,c00c4f46,Medicare
+ef199572,8fe373b0,"Vazquez, Thomas and Wallace",1c8e4922-38e,5a25b8ef,PPO
+ef216d1a,fd1a724b,King Group,fadba282-e92,88abb7f6,HMO
+ef4f6694,e15eb9bf,King Group,28cd2636-bad,c24a445c,HMO
+efc0cd63,0ce493c8,"Parker, Douglas and Collins",a52342fe-1e2,69fdac37,PPO
+eff366b5,8b9ebd16,King Group,5193080f-ca4,d1f228eb,Medicare
+f069b6c3,61089a88,"Gallegos, Green and Douglas",da6393ba-501,142599a1,Medicaid
+f0acf49f,62845455,Potts Group,ef2462f0-bb7,ae4f9f04,HMO
+f18c7b61,905e717f,King Group,ec8acd1e-683,fe82ce14,PPO
+f31b303e,39aec941,King Group,f63f4458-79c,fb5018d3,HMO
+f3380f0f,8227a5e1,Potts Group,07c6dd88-0f2,24dd0ad0,Medicaid
+f39c4f2f,e4ab0956,"Vazquez, Thomas and Wallace",7ef693d6-702,b24a801a,PPO
+f4743b8d,3ad3587c,Potts Group,4bbf09d3-ad0,08db96a3,PPO
+f7912c59,7d797630,Potts Group,6a840fa5-05b,3009bd86,Medicare
+f9222e79,e17110f2,"Vazquez, Thomas and Wallace",49a6e261-9a3,085da791,PPO
+f98daa7a,3272218f,"Vazquez, Thomas and Wallace",a580f968-cc5,558d83aa,HMO
+f9f618aa,8c032e07,King Group,4a6cc96f-281,b00bdcc7,HMO
+fa13a538,126990cb,King Group,0e2e78ae-b5c,82bcc88c,HMO
+fa8999dd,30948462,"Vazquez, Thomas and Wallace",8784b7c8-abd,d3abcf38,HMO
+fad474a4,e9b86377,"Gallegos, Green and Douglas",de256496-afa,e7f436f2,HMO
+fb83a8d2,2fa956e3,"Gallegos, Green and Douglas",f16b71b1-cd8,c2327d61,HMO
+fbc1d472,1d6682d4,"Gallegos, Green and Douglas",c2db45be-c27,259b4e59,Medicare
+fc0655bb,4445538b,King Group,6a26bb54-bdb,276a097e,PPO
+fd005320,d4a3cd5e,Potts Group,ad954389-621,74b424e4,Medicare
+fddd03ea,3770c29c,"Vazquez, Thomas and Wallace",6ac6f170-798,d8c6d407,HMO
+fdfca4c6,621a4237,Potts Group,678e0ef3-a0c,017d7b2b,Medicaid
+fe614345,cf314cc3,King Group,185bc7fe-552,4de9f46a,HMO
+fe9e80d5,6a4e3b96,"Gallegos, Green and Douglas",cf96ee48-5ca,bbd9c2dd,Medicare
+ff1995d8,873ac894,Potts Group,c8bfa7bb-f46,9bc09dd1,PPO
+ff9cad58,b85c5015,Potts Group,00314f9b-366,128e0914,Medicare
+fff207e2,767a9fbc,"Parker, Douglas and Collins",d96468c4-a3c,2b2bbac4,Medicaid
